@@ -1,5 +1,6 @@
-pyrogram
+pyrofork==2.3.45
 TgCrypto
 umongo
 dnspython
 heroku3
+pytz
